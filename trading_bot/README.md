@@ -65,9 +65,6 @@ BINANCE_API_SECRET=your_testnet_api_secret_here
 # BINANCE_BASE_URL=https://testnet.binancefuture.com
 # LOG_DIR=logs
 ```
-
-> **Never commit your `.env` file.** It is already listed in `.gitignore`.
-
 ---
 
 ## How to Run
