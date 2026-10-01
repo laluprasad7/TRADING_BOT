@@ -1,4 +1,4 @@
-# PrimeTrade – Binance Futures Testnet Trading Bot
+# Binance Futures Testnet Trading Bot
 
 A clean, well-structured Python CLI for placing orders on
 **Binance USDT-M Futures Testnet** with full logging and robust error handling.
